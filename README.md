@@ -1,2 +1,2 @@
 # 365raizing
-Employee and HR Management
+Hr and Employee Management

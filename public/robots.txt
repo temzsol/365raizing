@@ -1,0 +1,13 @@
+User-agent: *
+Disallow:
+
+Allow: /about*
+Allow: /contact*
+Allow: /service-list*
+Allow: /project-list*
+Allow: /blog-list*
+Allow: /images*
+Allow: /blog-list?id=anything
+Allow: /blog-list?tags=anything
+
+Sitemap: https://rrwebdevelopment.in/sitemap.xml
